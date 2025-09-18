@@ -42,13 +42,6 @@ Support farmer groups and cooperatives as community-based knowledge hubs.
 
 Integrate information access into agricultural policy as a key factor for innovation adoption.
 
-📂 Repository Structure
-├── data/               # Survey dataset (anonymized version)
-├── questionnaire/      # Structured questionnaire used
-├── analysis/           # SPSS outputs, syntax files
-├── results/            # Tables, figures, regression outputs
-└── README.md           # Project documentation
-
 🚀 Skills Demonstrated
 
 Data Cleaning and Coding (SPSS)
